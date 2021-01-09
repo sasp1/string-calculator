@@ -7,7 +7,6 @@ public class StringCalculator {
 
     public static void main(String[] args) {
         System.out.println("hey");
-        asdflaksæd;
     }
 
     public int add(String numbers)
