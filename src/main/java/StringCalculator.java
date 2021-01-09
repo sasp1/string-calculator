@@ -5,12 +5,14 @@ import java.util.stream.Stream;
 
 public class StringCalculator {
 
+    public static void main(String[] args) {
+        System.out.println("hej");
+    }
 
     public int add(String numbers)
     {
         if (numbers.isEmpty())
             return 0;
-
 
         String delimiter = "[,\n]";
         if (numbers.contains("//")){
