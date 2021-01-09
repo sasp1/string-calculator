@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 public class StringCalculator {
 
     public static void main(String[] args) {
-        System.out.println("hej");
+        System.out.println("hey");
     }
 
     public int add(String numbers)
